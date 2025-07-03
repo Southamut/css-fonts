@@ -1,1 +1,7 @@
-/* Start coding here */
+@font-face {
+    font-family: techup-font;
+    src: url('./fonts/2005_iannnnnCPU.ttf');
+}
+html {
+    font-family: techup-font;
+}
